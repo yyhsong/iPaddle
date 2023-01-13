@@ -1,0 +1,7 @@
+lipstick
+blush
+nail_polish
+eyeshadow
+foundation
+eyebrow
+mascara
