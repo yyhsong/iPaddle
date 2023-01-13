@@ -7,3 +7,4 @@ test.ipynb
 .DS_Store
 datasets/peach-classification/
 chapter04/peach_classification_ckpt/
+output
